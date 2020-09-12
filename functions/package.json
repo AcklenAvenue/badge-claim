@@ -24,7 +24,7 @@
     "lodash": "^4.17.15",
     "mailgun-js": "^0.22.0",
     "negotiator": "^0.6.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "query-string": "^6.8.3"
   },
   "devDependencies": {
